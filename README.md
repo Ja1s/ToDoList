@@ -28,7 +28,9 @@ O **To Do List** permite aos usuários:
 
 ### Lista de Tarefas
 ![Lista de Tarefas](https://portfolio.descubraserragaucha.com/assets/toDo0.png)
+---
 
 ### Tarefas Concluídas
 ![Tarefas Concluídas](https://portfolio.descubraserragaucha.com/assets/toDo1.png)
+---
 
